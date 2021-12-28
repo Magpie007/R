@@ -1,0 +1,46 @@
+https://www.stat.purdue.edu/~tqin/system101/method_select.htm
+
+1. Investigate features of a single variable
+1.1 The varialbe is continuous, then
+        begin from "one sample t-test"
+1.2 The variable is categorical, then
+        begin from "Goodness-of-fit-test"
+
+2. Investigate effect of (independent) variable(s) on other (dependent) variable(s)
+
+2.1 There is one dependent variable and one independent variable
+2.1.1 The dependent variable is continuous
+2.1.1.1 The independent variable is categorical
+        The independent variables has two categories (e.g., female/male)
+        - The samples are independent, then     
+            begin from "two sample t-test" (follow normal distribution-conduct normality check)
+            or use "Wilcoxon rank sum test" if you know data is not normally distributed
+        - The samples are dependent, then 
+             begin from "paired t-test" (follow normal distribution - conduct normality check)
+             or use "Wilcoxon sign rank test" if you know data is not normally distributed
+
+         The independent variables has three or more categories (e.g., black/red/white)
+         - The samples are independent, then 
+             begin from "ANOVA" (follow normal distribution and have similar standard deviation)
+             or use "Kruskal Wallis test" if you know data is not normally distributed
+             or use Welch test if you know data has heterogreneity variance
+         - The samples are dependent, then 
+             suggest methods that consider repeated measurement        
+2.1.1.2 The independent variable is continuous, then
+          begin from "linear regression"
+2.1.2 The dependent variable is categorical
+2.1.2.1 The indepenent variable is categorical
+        - The samples are independent (such as female/male), then
+            begin from contingency test
+            or use "Fisher's exact test", if you know the sample size is relatively small
+        - The samples are dependent (e.g, wife/husband),then 
+            begin from McNemar's test
+2.1.2.2 The independent variable is continuous, then 
+          begin from "logit regression"
+
+2.2 There is one dependent variable and multiple independent variables
+2.2.1 The dependent variable is continous
+      The independent variables are categorical, then
+        begin from "N-way Analysis of Variance (ANOVA)"
+      The indepenent variables are continuous, then
+2.2.2 The dependent variable is categorical, then

@@ -1,0 +1,42 @@
+
+R is one of the most prevalent programming languages for statistical analysis and computing. Researchers in the field of data science and statistical computing have been using this language for a few years now because of its number of intuitive features. These features include running code without a compiler, open-source, robust visualisation library, and other such.
+This article lists down the top 12 R packages for machine learning one must know in 2020.
+(The list is in alphabetical order)
+
+1| Classification And Regression Training (Caret)
+About: The Classification And REgression Training or caret package is a set of functions that seeks to streamline the method for creating predictive models. It contains tools for data splitting, pre-processing, feature selection, model tuning using resampling, variable importance estimation as well as other functionalities. The package started off as a technique to provide a uniform interface with the functions, including the ways to standardise common tasks such as parameter tuning, variable importance, among others.
+
+2| DataExplorer
+About: DataExplorer is one of the popular machine learning packages in R language that focuses on three main goals, which are exploratory data analysis (EDA), feature engineering and data reporting. This package automates the data exploration process for analytic tasks and predictive modelling so that users could focus on understanding data and extracting insights. The package scans and analyses each variable, and visualises them with typical graphical techniques.
+
+3| Dplyr
+About: dplyr is a fast and consistent tool for working with data frame like objects, both in memory and out of memory. It is also called as the grammar of data manipulation that provides methods, which are a consistent set of verbs for solving the most common data manipulation challenges.
+
+4| Ggplot2
+About: ggplot2 is one of the popular packages for data visualisation and is a system for declaratively creating graphics, based on The Grammar of Graphics. With the help of this package, you can create interactive data visualisations and make millions of plots of various models.
+
+5| kernLab
+About: kernLab or Kernel-Based Machine Learning Lab is a package for classification, regression, clustering, novelty detection, quantile regression and dimensionality reduction. Among other methods, this package also includes Support Vector Machines, Spectral Clustering, Kernel PCA, Gaussian Processes and a QP solver.  
+
+6| MICE Package
+About: MICE or Multivariate Imputation by Chained Equations Package implements multiple imputation using Fully Conditional Specification (FCS). In this package, each variable has its own imputation model and built-in imputation models are provided for continuous data (predictive mean matching, normal), binary data (logistic regression), unordered categorical data (polytomous logistic regression) and ordered categorical data (proportional odds).   
+
+7| mlr3
+About: Machine learning in R or mlr3 package e-builds on R6 classes and provides the essential building blocks for machine learning workflows. This package than an interface to a large number of classification and regression techniques, including machine-readable parameter descriptions. There is also an experimental extension for survival analysis, clustering and general, example-specific cost-sensitive learning.
+
+8| Plotly
+About: plotly is an R package for creating interactive web-based graphs via the open-source JavaScript graphing library plotly.js. Using this package, you can create interactive web graphics from ‘ggplot2’ graphs or a custom interface to the JavaScript library ‘plotly.js’ inspired by the grammar of graphics.
+
+Click here to know more.
+
+9| randomForest
+About: The randomForest package is used to create random forests in the R statistical language. The package implements Breiman’s random forest algorithm for classification and regression. It can also be used in the unsupervised mode for assessing proximities among data points.
+
+10| rpart
+About: Recursive partitioning for classification, regression and survival trees or rpart helps in building classification or regression models of a very general structure using a two-stage procedure and the resulting models can be represented as binary trees. The package implements many of the ideas found in the CART (Classification and Regression Trees) books.
+
+11| Superml
+About: Superml is one of the popular R packages for machine learning that provides a standard interface to the users who use both the programming languages Python and R for building machine learning models. This package basically provides the features of Scikit Learn and predicts the interface to train machine learning models in R.
+
+12| e1071
+About: e1071 or Misc Functions of the Department of Statistics, Probability Theory Group is a package that helps in evaluating the functions for latent class analysis, short-time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged clustering, naive Bayes classifier, and much more.

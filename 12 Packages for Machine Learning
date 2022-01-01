@@ -27,8 +27,6 @@ About: Machine learning in R or mlr3 package e-builds on R6 classes and provides
 8| Plotly
 About: plotly is an R package for creating interactive web-based graphs via the open-source JavaScript graphing library plotly.js. Using this package, you can create interactive web graphics from ‘ggplot2’ graphs or a custom interface to the JavaScript library ‘plotly.js’ inspired by the grammar of graphics.
 
-Click here to know more.
-
 9| randomForest
 About: The randomForest package is used to create random forests in the R statistical language. The package implements Breiman’s random forest algorithm for classification and regression. It can also be used in the unsupervised mode for assessing proximities among data points.
 

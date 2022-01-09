@@ -27,34 +27,37 @@ https://www.stat.purdue.edu/~tqin/system101/method_select.htm
 https://www.scribbr.com/statistics/statistical-tests/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/
 
+04. introstats
+https://bookdown.org/vaabe/bookdown-demo/
+
 #############
 Learning R
 #############
 
-1. R4DS
+01. R4DS
 https://r4ds.had.co.nz/
 https://jrnold.github.io/r4ds-exercise-solutions/
 
-2. Modern R with tidyverse
+02. Modern R with tidyverse
 https://b-rodrigues.github.io/modern_R/
 https://www.brodrigues.co/
 
-3. stats545 Data warangling, exploration, and analysis with R
+03. stats545 Data warangling, exploration, and analysis with R
 https://stat545.com
 
-4. Advanced R
+04. Advanced R
 https://adv-r.hadley.nz/index.html
 
-5. Quick R
+05. Quick R
 https://www.statmethods.net/stats/index.html
 
-6. R Tutorial
+06. R Tutorial
 https://www.geeksforgeeks.org/r-tutorial/?ref=lbp
 
-7.Introduction to Data Science
+07.Introduction to Data Science
 https://rafalab.github.io/dsbook/
 
-8. RPubs
+08. RPubs
 https://www.rpubs.com/
 
 

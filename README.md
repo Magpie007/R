@@ -10,3 +10,7 @@ https://jrnold.github.io/r4ds-exercise-solutions/
 
 1. How to choose the inital/starting parameter value
 2. How to ensure that the procedure reached the global minimum rather than a local minimum
+
+# Machine Learning with R
+
+  - [Machine Learning with R](https://www.mit.edu/~amidi/teaching/modeling/)

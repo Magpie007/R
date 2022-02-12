@@ -14,3 +14,15 @@ https://jrnold.github.io/r4ds-exercise-solutions/
 # Machine Learning with R
 
   - [Machine Learning with R](https://www.mit.edu/~amidi/teaching/modeling/)
+
+# TIDYMODELS
+  - [Tidymodels](https://www.tidymodels.org)
+    - [The Source](https://github.com/tidymodels/TMwR)
+  - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
+    - [The data sets and R code](https://github.com/EmilHvitfeldt/smltar)
+  - [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
+    - [The data sets and R code](https://github.com/topepo/FES)
+  - [Text Minning with R](https://www.tidytextmining.com/)
+    - [The data sets and R code](https://github.com/dgrtwo/tidy-text-mining)
+  - [Statistical Inference via Data Science](https://moderndive.com/)
+    - [The data sets and R code](https://github.com/moderndive/ModernDive_book)

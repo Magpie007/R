@@ -3,12 +3,14 @@
   - [Exercise Solution](https://jrnold.github.io/r4ds-exercise-solutions/)
 
 # Nonlinear Regression with R
+  - [Nonlinear Regression with R](https://link.springer.com/book/10.1007/978-0-387-09616-2) by Christian Ritz | Jens Carl Streibig
 1. How to choose the inital/starting parameter value
 2. How to ensure that the procedure reached the global minimum rather than a local minimum
 
 # Machine Learning with R
 
-  - [Machine Learning with R](https://www.mit.edu/~amidi/teaching/modeling/)
+  - [Mastering Machine Learning with R](https://github.com/PacktPublishing/Mastering-Machine-Learning-with-R-Third-Edition) by Cory Lesmeister
+  - [Machine Learning with R](https://www.mit.edu/~amidi/teaching/modeling/) by Shervine Amidi
 
 # TIDYMODELS
   - [Tidymodels](https://www.tidymodels.org)

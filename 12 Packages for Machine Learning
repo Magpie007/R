@@ -1,7 +1,6 @@
-
 R is one of the most prevalent programming languages for statistical analysis and computing. Researchers in the field of data science and statistical computing have been using this language for a few years now because of its number of intuitive features. These features include running code without a compiler, open-source, robust visualisation library, and other such.
-This article lists down the top 12 R packages for machine learning one must know in 2020.
-(The list is in alphabetical order)
+ 
+This article lists down the top 12 R packages for machine learning one must know in 2020. (The list is in alphabetical order)
 
 1| Classification And Regression Training (Caret)
 About: The Classification And REgression Training or caret package is a set of functions that seeks to streamline the method for creating predictive models. It contains tools for data splitting, pre-processing, feature selection, model tuning using resampling, variable importance estimation as well as other functionalities. The package started off as a technique to provide a uniform interface with the functions, including the ways to standardise common tasks such as parameter tuning, variable importance, among others.
@@ -38,4 +37,3 @@ About: Superml is one of the popular R packages for machine learning that provid
 
 12| e1071
 About: e1071 or Misc Functions of the Department of Statistics, Probability Theory Group is a package that helps in evaluating the functions for latent class analysis, short-time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged clustering, naive Bayes classifier, and much more.
-

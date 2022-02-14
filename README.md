@@ -3,7 +3,12 @@
   - [Exercise Solution](https://jrnold.github.io/r4ds-exercise-solutions/)
 
 # Nonlinear Regression with R
-Nonlinear regression methods are suited for analysing data for which there is an empirically or theoretically established functional relationship between response and predictor. 
+Nonlinear regression methods are suited for analysing data for which there is an empirically or theoretically established functional relationship between response and predictor.
+
+The algorithm for estimation in nonlinear regression is the Gauss-Newtown method. The numerical optimization methods are not perfect. 
+
+The solutions may differ as a consequence of different algorithms, different implementations of the same algorithm, different parameterizations, or different starting values. 
+
   - [Nonlinear Regression with R](https://link.springer.com/book/10.1007/978-0-387-09616-2) by Christian Ritz | Jens Carl Streibig
 1. How to choose the inital/starting parameter value
 2. How to ensure that the procedure reached the global minimum rather than a local minimum

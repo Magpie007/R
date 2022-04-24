@@ -1,6 +1,6 @@
 # R for Data Science
   - [R for Data Science](https://r4ds.had.co.nz/index.html)
-  - [Exercise Solution](https://jrnold.github.io/r4ds-exercise-solutions/)
+  - [Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/)
 
 # Nonlinear Regression with R
 Nonlinear regression methods are suited for analysing data for which there is an empirically or theoretically established functional relationship between response and predictor.
@@ -36,4 +36,16 @@ The solutions may differ as a consequence of different algorithms, different imp
     - [The data sets and R code](https://github.com/dgrtwo/tidy-text-mining)
   - [Statistical Inference via Data Science](https://moderndive.com/)
     - [The data sets and R code](https://github.com/moderndive/ModernDive_book)
+
+# Other Books
+
+- [The Book of R](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf) by Tilman M. Davies
+- [Hands-On Programming with R](https://web.itu.edu.tr/~tokerem/Hands-On_R.pdf) by Garrett Grolemund
+- [Learning R](https://web.itu.edu.tr/~tokerem/Learning_R.pdf) by Richard Cotton
+- [Modern Applied Statistics with R](https://bookdown.org/xiangyun/masr/) by Xiangyun Huang
+- [R Programming](https://www.stats.ox.ac.uk/~evans/Rprog/LectureNotes.pdf) by Robin Evans
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
+- [Data Analytics](https://dataanalyticsbook.info/) by Shuai Huang | Houtao Deng
+
+
 

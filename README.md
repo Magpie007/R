@@ -21,9 +21,10 @@ The solutions may differ as a consequence of different algorithms, different imp
 # Statistics with R
 
   - [A Course in Statistics with R](https://www.wiley.com/en-us/A+Course+in+Statistics+with+R-p-9781119152729) by Prabhanjan Tattar | Suresh Ramaiah | B. G. Manjunath
-  - [The R Book](https://www.wiley.com/en-us/The+R+Book%2C+2nd+Edition-p-9780470973929) by Michael J. Crawley
-  - [Applied Econometrics with R](https://link.springer.com/book/10.1007/978-0-387-77318-6?&utm_medium=display&utm_source=criteo&utm_campaign=CONR_BOOKS_ECOM_US_PHSS_ALWYS_SL&utm_content=us_banner_29012020) by Christian Kleiber | Achim Zeileis
-  - [Introductory Econometrics: A Modern Approach](https://www.amazon.com/Introductory-Econometrics-Modern-Approach-MindTap-dp-1337558869/dp/1337558869/ref=dp_ob_title_bk) by Jeffrey M. Wooldridge
+  - [The R Book](https://www.cs.upc.edu/~robert/teaching/estadistica/TheRBook.pdf) by Michael J. Crawley
+  - [An Introduction to Statistical Learnign with Applications in R](https://www.statlearning.com/) by G. James | D. Witten | T. Hastie | R. Tibshirani
+  - [Introductory Statistics with R](https://www.cin.ufpe.br/~maod/ESAP/R/Introductory-Statistics-With-R-2nd-Edition.pdf) by Peter Dalgaard
+  - [Modern Applied Statistics with R](https://bookdown.org/xiangyun/masr/) by Xiangyun Huang
   
 # TIDYMODELS
   - [Tidymodels](https://www.tidymodels.org)
@@ -42,10 +43,17 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [The Book of R](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf) by Tilman M. Davies
 - [Hands-On Programming with R](https://web.itu.edu.tr/~tokerem/Hands-On_R.pdf) by Garrett Grolemund
 - [Learning R](https://web.itu.edu.tr/~tokerem/Learning_R.pdf) by Richard Cotton
-- [Modern Applied Statistics with R](https://bookdown.org/xiangyun/masr/) by Xiangyun Huang
-- [R Programming](https://www.stats.ox.ac.uk/~evans/Rprog/LectureNotes.pdf) by Robin Evans
+- [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/) by B.S. Baumer | D.T. Kaplan | N.J. Horton
+- [Data Manipulation with R](https://www.amazon.com/Data-Manipulation-R-Use/dp/0387747303) by Phil Spector
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
+- [R Programming](https://www.stats.ox.ac.uk/~evans/Rprog/LectureNotes.pdf) by Robin Evans
 - [Data Analytics](https://dataanalyticsbook.info/) by Shuai Huang | Houtao Deng
+
+# Econometrics with R
+
+- [Applied Econometrics with R](https://link.springer.com/book/10.1007/978-0-387-77318-6?&utm_medium=display&utm_source=criteo&utm_campaign=CONR_BOOKS_ECOM_US_PHSS_ALWYS_SL&utm_content=us_banner_29012020) by Christian Kleiber | Achim Zeileis
+- [Introductory Econometrics: A Modern Approach](https://www.amazon.com/Introductory-Econometrics-Modern-Approach-MindTap-dp-1337558869/dp/1337558869/ref=dp_ob_title_bk) by Jeffrey M. Wooldridge
+
 
 
 

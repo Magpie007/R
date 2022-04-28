@@ -33,4 +33,4 @@ y <- bind_rows(x)
 colnames(y) <- c("Day", "DailyRawFlow", "DWF", "MaxFlow", "MinFlow", "AeratorFlow",
                  "SecondaryBypassFlow", "HighLevelFlow", "LowLevelFlow")
 View(y)
-
+write.table(y, file="result.csv")

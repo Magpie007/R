@@ -38,6 +38,13 @@ The solutions may differ as a consequence of different algorithms, different imp
   - [Statistical Inference via Data Science](https://moderndive.com/)
     - [The data sets and R code](https://github.com/moderndive/ModernDive_book)
 
+# mlr3verse
+
+- [CRAN](https://cran.r-project.org/web/packages/mlr3verse/index.html) | [URL](https://mlr3verse.mlr-org.com/) | [mlr3verse](https://github.com/mlr-org/mlr3verse) | [mlr3](https://github.com/mlr-org/mlr3book)
+- [Learn mlr3](https://mlr3book.mlr-org.com/)
+- [mlr3 Gallery](https://mlr3gallery.mlr-org.com/)
+- [mlr3 Cheat Sheets](https://github.com/mlr-org/mlr3cheatsheets)
+
 # Other Books
 
 - [The Book of R](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf) by Tilman M. Davies

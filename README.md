@@ -55,6 +55,7 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
 - [R Programming](https://www.stats.ox.ac.uk/~evans/Rprog/LectureNotes.pdf) by Robin Evans
 - [Data Analytics](https://dataanalyticsbook.info/) by Shuai Huang | Houtao Deng
+- [Rbook](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html) by Dongfeng Li
 
 # Econometrics with R
 

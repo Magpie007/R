@@ -60,6 +60,7 @@ The solutions may differ as a consequence of different algorithms, different imp
 
 # Other Reference Books
 
+- [R in Action](https://www.manning.com/books/r-in-action-third-edition#toc) by Robert I. Kabacoff
 - [The Art of R Programming](https://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) by Norman Matloff
 - [The Book of R](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf) by Tilman M. Davies
 - [Hands-On Programming with R](https://web.itu.edu.tr/~tokerem/Hands-On_R.pdf) by Garrett Grolemund

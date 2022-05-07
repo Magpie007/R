@@ -15,6 +15,25 @@ The solutions may differ as a consequence of different algorithms, different imp
 
 # Machine Learning with R
 
+- ### *TIDYMODELS*
+  - [Tidymodels](https://www.tidymodels.org)
+  - [The Source](https://github.com/tidymodels/TMwR)
+  - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
+    - [The data sets and R code](https://github.com/EmilHvitfeldt/smltar)
+  - [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
+    - [The data sets and R code](https://github.com/topepo/FES)
+  - [Text Minning with R](https://www.tidytextmining.com/)
+    - [The data sets and R code](https://github.com/dgrtwo/tidy-text-mining)
+  - [Statistical Inference via Data Science](https://moderndive.com/)
+    - [The data sets and R code](https://github.com/moderndive/ModernDive_book)
+
+- ### *mlr3verse*
+  - [CRAN](https://cran.r-project.org/web/packages/mlr3verse/index.html) | [URL](https://mlr3verse.mlr-org.com/) | [mlr3verse](https://github.com/mlr-org/mlr3verse) | [mlr3](https://github.com/mlr-org/mlr3book)
+  - [Learn mlr3](https://mlr3book.mlr-org.com/)
+  - [mlr3 Gallery](https://mlr3gallery.mlr-org.com/)
+  - [mlr3 Cheat Sheets](https://github.com/mlr-org/mlr3cheatsheets)
+
+- ### *Others* 
   - [Mastering Machine Learning with R](https://github.com/PacktPublishing/Mastering-Machine-Learning-with-R-Third-Edition) by Cory Lesmeister
   - [Machine Learning with R](https://www.mit.edu/~amidi/teaching/modeling/) by Shervine Amidi
 
@@ -26,26 +45,20 @@ The solutions may differ as a consequence of different algorithms, different imp
   - [Introductory Statistics with R](https://www.cin.ufpe.br/~maod/ESAP/R/Introductory-Statistics-With-R-2nd-Edition.pdf) by Peter Dalgaard
   - [Modern Applied Statistics with R](https://bookdown.org/xiangyun/masr/) by Xiangyun Huang
   
-# TIDYMODELS
-  - [Tidymodels](https://www.tidymodels.org)
-    - [The Source](https://github.com/tidymodels/TMwR)
-  - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
-    - [The data sets and R code](https://github.com/EmilHvitfeldt/smltar)
-  - [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
-    - [The data sets and R code](https://github.com/topepo/FES)
-  - [Text Minning with R](https://www.tidytextmining.com/)
-    - [The data sets and R code](https://github.com/dgrtwo/tidy-text-mining)
-  - [Statistical Inference via Data Science](https://moderndive.com/)
-    - [The data sets and R code](https://github.com/moderndive/ModernDive_book)
+# Data Visualization with R
 
-# mlr3verse
+- [R Graphics](https://usa1lib.org/book/600913/34aec1) by Paul Murrell
+- [ggplot2 Elegant Graphics for Data Analysis](https://ggplot2-book.org/) by H. Wickham | D. Navarro | T. L. Pedersen 
+- [Lattice: Multivariate Data Visualization with R](https://usa1lib.org/book/1240019/03a5c5) by Deepayan Sarkar
+- [Interactive and Dynamic Graphics for Data Analysis with R and GGobi](https://usa1lib.org/book/672479/5651bf) by D. Cook | D. F. Swayne
+- [R Graphics Cookbook](https://r-graphics.org/) by Winston Chang
 
-- [CRAN](https://cran.r-project.org/web/packages/mlr3verse/index.html) | [URL](https://mlr3verse.mlr-org.com/) | [mlr3verse](https://github.com/mlr-org/mlr3verse) | [mlr3](https://github.com/mlr-org/mlr3book)
-- [Learn mlr3](https://mlr3book.mlr-org.com/)
-- [mlr3 Gallery](https://mlr3gallery.mlr-org.com/)
-- [mlr3 Cheat Sheets](https://github.com/mlr-org/mlr3cheatsheets)
+# Econometrics with R
 
-# Other Books
+- [Applied Econometrics with R](https://link.springer.com/book/10.1007/978-0-387-77318-6?&utm_medium=display&utm_source=criteo&utm_campaign=CONR_BOOKS_ECOM_US_PHSS_ALWYS_SL&utm_content=us_banner_29012020) by Christian Kleiber | Achim Zeileis
+- [Introductory Econometrics: A Modern Approach](https://www.amazon.com/Introductory-Econometrics-Modern-Approach-MindTap-dp-1337558869/dp/1337558869/ref=dp_ob_title_bk) by Jeffrey M. Wooldridge
+
+# Other Reference Books
 
 - [The Art of R Programming](https://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) by Norman Matloff
 - [The Book of R](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf) by Tilman M. Davies
@@ -59,11 +72,7 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [Rbook](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html) | [URL](https://www.math.pku.edu.cn/teachers/lidf/) by Dongfeng Li
 - [R for Everyone](https://www.jaredlander.com/r-for-everyone/) by Jared Lander
 
-# Econometrics with R
+# Github
 
-- [Applied Econometrics with R](https://link.springer.com/book/10.1007/978-0-387-77318-6?&utm_medium=display&utm_source=criteo&utm_campaign=CONR_BOOKS_ECOM_US_PHSS_ALWYS_SL&utm_content=us_banner_29012020) by Christian Kleiber | Achim Zeileis
-- [Introductory Econometrics: A Modern Approach](https://www.amazon.com/Introductory-Econometrics-Modern-Approach-MindTap-dp-1337558869/dp/1337558869/ref=dp_ob_title_bk) by Jeffrey M. Wooldridge
-
-
-
+- [Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

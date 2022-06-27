@@ -37,6 +37,11 @@ The solutions may differ as a consequence of different algorithms, different imp
   - [Mastering Machine Learning with R](https://github.com/PacktPublishing/Mastering-Machine-Learning-with-R-Third-Edition) by Cory Lesmeister
   - [Machine Learning with R](https://www.mit.edu/~amidi/teaching/modeling/) by Shervine Amidi
 
+# lme4: Linear Mixed-Effects Models using 'Eigen' and S4
+  - [Data Science and Analytics](http://bayes.acs.unt.edu:8083/BayesContent/class/Jon/R_SC/) 
+  - [Github](https://github.com/jknowles/MultilevelModelTutorialsR)
+  - [Example1](https://it.unt.edu/sites/default/files/linearmixedmodels_jds_dec2010.pdf) | [Example2](https://rstudio-pubs-static.s3.amazonaws.com/63556_e35cc7e2dfb54a5bb551f3fa4b3ec4ae.html) | [Example3](https://stats.stackexchange.com/questions/13166/rs-lmer-cheat-sheet)
+  
 # Statistics with R
 
   - [A Course in Statistics with R](https://www.wiley.com/en-us/A+Course+in+Statistics+with+R-p-9781119152729) by Prabhanjan Tattar | Suresh Ramaiah | B. G. Manjunath

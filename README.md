@@ -44,9 +44,11 @@ The solutions may differ as a consequence of different algorithms, different imp
   
 # Statistics with R
 
+  - [An Introduction to Statistical Learnign with Applications in R](http://faculty.marshall.usc.edu/gareth-james/) by G. James | D. Witten | T. Hastie | R. Tibshirani
+  - [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) by Hastie, T. | Tibshirani, R. | Friedman, J. 
   - [A Course in Statistics with R](https://www.wiley.com/en-us/A+Course+in+Statistics+with+R-p-9781119152729) by Prabhanjan Tattar | Suresh Ramaiah | B. G. Manjunath
   - [The R Book](https://www.cs.upc.edu/~robert/teaching/estadistica/TheRBook.pdf) by Michael J. Crawley
-  - [An Introduction to Statistical Learnign with Applications in R](https://www.statlearning.com/) by G. James | D. Witten | T. Hastie | R. Tibshirani
+  
   - [Introductory Statistics with R](https://www.cin.ufpe.br/~maod/ESAP/R/Introductory-Statistics-With-R-2nd-Edition.pdf) by Peter Dalgaard
   - [Modern Applied Statistics with R](https://bookdown.org/xiangyun/masr/) by Xiangyun Huang
   

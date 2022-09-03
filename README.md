@@ -50,7 +50,7 @@ The solutions may differ as a consequence of different algorithms, different imp
   - [The R Book](https://www.cs.upc.edu/~robert/teaching/estadistica/TheRBook.pdf) by Michael J. Crawley
   
   - [Introductory Statistics with R](https://www.cin.ufpe.br/~maod/ESAP/R/Introductory-Statistics-With-R-2nd-Edition.pdf) by Peter Dalgaard
-  - [Modern Applied Statistics with R](https://bookdown.org/xiangyun/masr/) by Xiangyun Huang
+  - [Statistical Analysis of Agricultural Experiments using R](https://rstats4ag.org/) by Andrew Kniss | Jens Streibig
   
 # Data Visualization with R
 
@@ -79,6 +79,7 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [Data Analytics](https://dataanalyticsbook.info/) by Shuai Huang | Houtao Deng
 - [Rbook](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html) | [URL](https://www.math.pku.edu.cn/teachers/lidf/) by Dongfeng Li
 - [R for Everyone](https://www.jaredlander.com/r-for-everyone/) by Jared Lander
+- [Free Online Books](https://bookdown.org/) 
 
 # Github
 

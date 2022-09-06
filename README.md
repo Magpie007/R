@@ -62,6 +62,7 @@ The solutions may differ as a consequence of different algorithms, different imp
 
 # Shiny
 - [Shiny Study](https://github.com/wangluqing/Shiny_Study_Project) by Luqing Wang
+- [Outstanding User Interfaces with Shiny](https://github.com/DivadNojnarg/outstanding-shiny-ui)
 
 # Econometrics with R
 
@@ -88,4 +89,4 @@ The solutions may differ as a consequence of different algorithms, different imp
 
 - [Computer Setup](https://palderman.github.io/DataSciAg/computer-setup/) | [R Tutorial With Bayesian Statistics Using Stan](http://www.r-tutor.com/content/r-tutorial-ebook) by Chi Yau
 - [Github - Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+- [Learning ANOVA](https://personality-project.org/r/r.guide.html#anova)

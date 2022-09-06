@@ -60,6 +60,9 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [Interactive and Dynamic Graphics for Data Analysis with R and GGobi](https://usa1lib.org/book/672479/5651bf) by D. Cook | D. F. Swayne
 - [R Graphics Cookbook](https://r-graphics.org/) by Winston Chang
 
+# Shiny
+- [Shiny Study](https://github.com/wangluqing/Shiny_Study_Project) by Luqing Wang
+
 # Econometrics with R
 
 - [Applied Econometrics with R](https://link.springer.com/book/10.1007/978-0-387-77318-6?&utm_medium=display&utm_source=criteo&utm_campaign=CONR_BOOKS_ECOM_US_PHSS_ALWYS_SL&utm_content=us_banner_29012020) by Christian Kleiber | Achim Zeileis
@@ -81,7 +84,8 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [R for Everyone](https://www.jaredlander.com/r-for-everyone/) by Jared Lander
 - [Free Online Books](https://bookdown.org/) 
 
-# Github
+# Getting Started
 
-- [Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Computer Setup](https://palderman.github.io/DataSciAg/computer-setup/) | [R Tutorial With Bayesian Statistics Using Stan](http://www.r-tutor.com/content/r-tutorial-ebook) by Chi Yau
+- [Github - Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

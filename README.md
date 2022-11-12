@@ -61,6 +61,10 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [Interactive and Dynamic Graphics for Data Analysis with R and GGobi](https://usa1lib.org/book/672479/5651bf) by D. Cook | D. F. Swayne
 - [R Graphics Cookbook](https://r-graphics.org/) by Winston Chang
 
+# Time Series Forecasting
+
+- [Forecasting Principles and Practice](https://otexts.com/fpp3/index.html) by Rob J Hyndman | George Athanasopoulos
+
 # Shiny
 - [Shiny Study](https://github.com/wangluqing/Shiny_Study_Project) by Luqing Wang
 - [Outstanding User Interfaces with Shiny](https://github.com/DivadNojnarg/outstanding-shiny-ui)

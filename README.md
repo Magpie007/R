@@ -26,6 +26,7 @@ The solutions may differ as a consequence of different algorithms, different imp
     - [The data sets and R code](https://github.com/dgrtwo/tidy-text-mining)
   - [Statistical Inference via Data Science](https://moderndive.com/)
     - [The data sets and R code](https://github.com/moderndive/ModernDive_book)
+  - [Tidy Modeling with R](https://www.tmwr.org/)
 
 - ### *mlr3verse*
   - [CRAN](https://cran.r-project.org/web/packages/mlr3verse/index.html) | [URL](https://mlr3verse.mlr-org.com/) | [mlr3verse](https://github.com/mlr-org/mlr3verse) | [mlr3](https://github.com/mlr-org/mlr3book)

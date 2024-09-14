@@ -5,10 +5,7 @@
 # Getting Started
 - [R in Action](https://www.manning.com/books/r-in-action-third-edition#toc) by Robert I. Kabacoff
 - [Learning R](https://web.itu.edu.tr/~tokerem/Learning_R.pdf) by Richard Cotton
-- [R Cookbook](https://rc2e.com/)
-- [Computer Setup](https://palderman.github.io/DataSciAg/computer-setup/) | [R Tutorial With Bayesian Statistics Using Stan](http://www.r-tutor.com/content/r-tutorial-ebook) by Chi Yau
-- [Github - Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+- [R Cookbook v1](https://users.dimi.uniud.it/~massimo.franceschet/ds/syllabus/bibliography/R%20Cookbook.pdf)[ & v2](https://rc2e.com/) 
 
 # Nonlinear Regression with R
 Nonlinear regression methods are suited for analysing data for which there is an empirically or theoretically established functional relationship between response and predictor.
@@ -99,4 +96,6 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [Capital of Statistics](https://cosx.org/books/)
 - [Xiao Kai](https://xccds1977.blogspot.com/)
 - [Learning ANOVA](https://personality-project.org/r/r.guide.html#anova)
-- 
+- [R Tutorial With Bayesian Statistics Using Stan](http://www.r-tutor.com/content/r-tutorial-ebook) by Chi Yau
+# Github
+[Github - Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)

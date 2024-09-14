@@ -8,7 +8,7 @@
 - [R Cookbook](https://rc2e.com/)
 - [Computer Setup](https://palderman.github.io/DataSciAg/computer-setup/) | [R Tutorial With Bayesian Statistics Using Stan](http://www.r-tutor.com/content/r-tutorial-ebook) by Chi Yau
 - [Github - Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Learning ANOVA](https://personality-project.org/r/r.guide.html#anova)
+
 
 # Nonlinear Regression with R
 Nonlinear regression methods are suited for analysing data for which there is an empirically or theoretically established functional relationship between response and predictor.
@@ -53,7 +53,6 @@ The solutions may differ as a consequence of different algorithms, different imp
   - [Coding Club](https://ourcodingclub.github.io/tutorials.html) | [Linear Mixed Models](https://github.com/ourcodingclub/CC-Linear-mixed-models)
   
 # Statistics with R
-
   - [An Introduction to Statistical Learnign with Applications in R and Python](https://www.statlearning.com/) by G. James | D. Witten | T. Hastie | R. Tibshirani
   - [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) by Hastie, T. | Tibshirani, R. | Friedman, J. 
   - [A Course in Statistics with R](https://www.wiley.com/en-us/A+Course+in+Statistics+with+R-p-9781119152729) by Prabhanjan Tattar | Suresh Ramaiah | B. G. Manjunath
@@ -71,7 +70,6 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [R Graphics Cookbook](https://r-graphics.org/) by Winston Chang
 
 # Time Series Forecasting
-
 - [Forecasting Principles and Practice](https://otexts.com/fpp3/index.html) by Rob J Hyndman | George Athanasopoulos
 
 # Shiny
@@ -79,13 +77,10 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [Outstanding User Interfaces with Shiny](https://github.com/DivadNojnarg/outstanding-shiny-ui)
 
 # Econometrics with R
-
 - [Applied Econometrics with R](https://link.springer.com/book/10.1007/978-0-387-77318-6?&utm_medium=display&utm_source=criteo&utm_campaign=CONR_BOOKS_ECOM_US_PHSS_ALWYS_SL&utm_content=us_banner_29012020) by Christian Kleiber | Achim Zeileis
 - [Introductory Econometrics: A Modern Approach](https://www.amazon.com/Introductory-Econometrics-Modern-Approach-MindTap-dp-1337558869/dp/1337558869/ref=dp_ob_title_bk) by Jeffrey M. Wooldridge
 
 # Other Reference Books
-
-
 - [The Art of R Programming](https://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) by Norman Matloff
 - [The Book of R](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf) by Tilman M. Davies
 - [Hands-On Programming with R](https://web.itu.edu.tr/~tokerem/Hands-On_R.pdf) by Garrett Grolemund
@@ -99,9 +94,9 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [R for Everyone](https://www.jaredlander.com/r-for-everyone/) by Jared Lander
 - [Free Online Books](https://bookdown.org/) 
 - [Big Book of R](https://www.bigbookofr.com/)
-  
-
-
+ 
 # Sites & Blogs
 - [Capital of Statistics](https://cosx.org/books/)
 - [Xiao Kai](https://xccds1977.blogspot.com/)
+- [Learning ANOVA](https://personality-project.org/r/r.guide.html#anova)
+- 

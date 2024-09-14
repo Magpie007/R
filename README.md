@@ -90,9 +90,13 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [Rbook](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html) | [URL](https://www.math.pku.edu.cn/teachers/lidf/) by Dongfeng Li
 - [R for Everyone](https://www.jaredlander.com/r-for-everyone/) by Jared Lander
 - [Free Online Books](https://bookdown.org/) 
-
+- [Big Book of R](https://www.bigbookofr.com/)
+  
 # Getting Started
 
 - [Computer Setup](https://palderman.github.io/DataSciAg/computer-setup/) | [R Tutorial With Bayesian Statistics Using Stan](http://www.r-tutor.com/content/r-tutorial-ebook) by Chi Yau
 - [Github - Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Learning ANOVA](https://personality-project.org/r/r.guide.html#anova)
+
+# Sites & Blogs
+- [Capital of Statistics](https://cosx.org/books/)

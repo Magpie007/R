@@ -100,3 +100,4 @@ The solutions may differ as a consequence of different algorithms, different imp
 
 # Sites & Blogs
 - [Capital of Statistics](https://cosx.org/books/)
+- [Xiao Kai](https://xccds1977.blogspot.com/)

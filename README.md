@@ -2,6 +2,14 @@
   - [R for Data Science](https://r4ds.had.co.nz/index.html) | [Hadley Wickham](https://hadley.nz/index.html)
   - [Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/)
 
+# Getting Started
+- [R in Action](https://www.manning.com/books/r-in-action-third-edition#toc) by Robert I. Kabacoff
+- [Learning R](https://web.itu.edu.tr/~tokerem/Learning_R.pdf) by Richard Cotton
+- [R Cookbook](https://rc2e.com/)
+- [Computer Setup](https://palderman.github.io/DataSciAg/computer-setup/) | [R Tutorial With Bayesian Statistics Using Stan](http://www.r-tutor.com/content/r-tutorial-ebook) by Chi Yau
+- [Github - Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Learning ANOVA](https://personality-project.org/r/r.guide.html#anova)
+
 # Nonlinear Regression with R
 Nonlinear regression methods are suited for analysing data for which there is an empirically or theoretically established functional relationship between response and predictor.
 
@@ -77,11 +85,11 @@ The solutions may differ as a consequence of different algorithms, different imp
 
 # Other Reference Books
 
-- [R in Action](https://www.manning.com/books/r-in-action-third-edition#toc) by Robert I. Kabacoff
+
 - [The Art of R Programming](https://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) by Norman Matloff
 - [The Book of R](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf) by Tilman M. Davies
 - [Hands-On Programming with R](https://web.itu.edu.tr/~tokerem/Hands-On_R.pdf) by Garrett Grolemund
-- [Learning R](https://web.itu.edu.tr/~tokerem/Learning_R.pdf) by Richard Cotton
+
 - [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/) by B.S. Baumer | D.T. Kaplan | N.J. Horton
 - [Data Manipulation with R](https://www.amazon.com/Data-Manipulation-R-Use/dp/0387747303) by Phil Spector
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
@@ -92,11 +100,7 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [Free Online Books](https://bookdown.org/) 
 - [Big Book of R](https://www.bigbookofr.com/)
   
-# Getting Started
 
-- [Computer Setup](https://palderman.github.io/DataSciAg/computer-setup/) | [R Tutorial With Bayesian Statistics Using Stan](http://www.r-tutor.com/content/r-tutorial-ebook) by Chi Yau
-- [Github - Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Learning ANOVA](https://personality-project.org/r/r.guide.html#anova)
 
 # Sites & Blogs
 - [Capital of Statistics](https://cosx.org/books/)

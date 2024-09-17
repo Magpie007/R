@@ -10,6 +10,7 @@
 # R Markdown
 - [R Markdown](https://rmarkdown.rstudio.com/) | [Capital of Statistics](https://cosx.org/2021/04/rmarkdown-introduction/) | [Cheatsheet](https://rstudio.github.io/cheatsheets/html/rmarkdown.html) | [Quick Tour](https://rmarkdown.rstudio.com/authoring_quick_tour.html)
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) | [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+- [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
 
 # Nonlinear Regression with R
 Nonlinear regression methods are suited for analysing data for which there is an empirically or theoretically established functional relationship between response and predictor.

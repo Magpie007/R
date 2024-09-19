@@ -22,6 +22,8 @@ The solutions may differ as a consequence of different algorithms, different imp
   - [Nonlinear Regression with R](https://link.springer.com/book/10.1007/978-0-387-09616-2) by Christian Ritz | Jens Carl Streibig
 1. How to choose the inital/starting parameter value
 2. How to ensure that the procedure reached the global minimum rather than a local minimum
+# Modern Statistics for Modern Biology
+- [EMBL](https://www.huber.embl.de/msmb/#sec-Home) | [Stanford](https://www.huber.embl.de/msmb/#sec-Home)
 # Machine Learning with R
 - ### *TIDYMODELS*
   - [Tidymodels](https://www.tidymodels.org)

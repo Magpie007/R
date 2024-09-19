@@ -23,7 +23,7 @@ The solutions may differ as a consequence of different algorithms, different imp
 1. How to choose the inital/starting parameter value
 2. How to ensure that the procedure reached the global minimum rather than a local minimum
 # Modern Statistics for Modern Biology
-- [EMBL](https://www.huber.embl.de/msmb/#sec-Home) | [Stanford](https://www.huber.embl.de/msmb/#sec-Home)
+- [EMBL](https://www.huber.embl.de/msmb/#sec-Home) | [Stanford](https://web.stanford.edu/class/bios221/)
 # Machine Learning with R
 - ### *TIDYMODELS*
   - [Tidymodels](https://www.tidymodels.org)

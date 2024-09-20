@@ -94,7 +94,8 @@ The solutions may differ as a consequence of different algorithms, different imp
 # Github
 [Github - Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 # Installation
-[R for Windows](https://cran.r-project.org/)
+- [R for Windows](https://cran.r-project.org/)
+- [Tips](https://garthtarr.github.io/avfs/tips.html)
 
 
 

@@ -1,17 +1,14 @@
 # R for Data Science
   - [R for Data Science](https://r4ds.had.co.nz/index.html) | [Hadley Wickham](https://hadley.nz/index.html)
   - [Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/)
-
 # Getting Started
 - [R in Action](https://www.manning.com/books/r-in-action-third-edition#toc) by Robert I. Kabacoff
 - [Learning R](https://web.itu.edu.tr/~tokerem/Learning_R.pdf) by Richard Cotton
 - [R Cookbook v1](https://users.dimi.uniud.it/~massimo.franceschet/ds/syllabus/bibliography/R%20Cookbook.pdf)[ & v2](https://rc2e.com/) 
-
 # R Markdown
 - [R Markdown](https://rmarkdown.rstudio.com/) | [Capital of Statistics](https://cosx.org/2021/04/rmarkdown-introduction/) | [Cheatsheet](https://rstudio.github.io/cheatsheets/html/rmarkdown.html) | [Quick Tour](https://rmarkdown.rstudio.com/authoring_quick_tour.html)
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) | [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 - [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
-
 # Nonlinear Regression with R
 Nonlinear regression methods are suited for analysing data for which there is an empirically or theoretically established functional relationship between response and predictor.
 
@@ -96,6 +93,3 @@ The solutions may differ as a consequence of different algorithms, different imp
 # Installation
 - [R for Windows](https://cran.r-project.org/)
 - [Tips](https://garthtarr.github.io/avfs/tips.html)
-
-
-

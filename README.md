@@ -21,32 +21,9 @@ The solutions may differ as a consequence of different algorithms, different imp
 2. How to ensure that the procedure reached the global minimum rather than a local minimum
 # Modern Statistics for Modern Biology
 - [EMBL](https://www.huber.embl.de/msmb/#sec-Home) | [Stanford](https://web.stanford.edu/class/bios221/)
-# Machine Learning with R
-- ### *TIDYMODELS*
-  - [Tidymodels](https://www.tidymodels.org)
-  - [The Source](https://github.com/tidymodels/TMwR)
-  - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
-    - [The data sets and R code](https://github.com/EmilHvitfeldt/smltar)
-  - [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
-    - [The data sets and R code](https://github.com/topepo/FES)
-  - [Text Minning with R](https://www.tidytextmining.com/)
-    - [The data sets and R code](https://github.com/dgrtwo/tidy-text-mining)
-  - [Statistical Inference via Data Science](https://moderndive.com/)
-    - [The data sets and R code](https://github.com/moderndive/ModernDive_book)
-  - [Tidy Modeling with R](https://www.tmwr.org/)
-- ### *mlr3verse*
-  - [CRAN](https://cran.r-project.org/web/packages/mlr3verse/index.html) | [URL](https://mlr3verse.mlr-org.com/) | [mlr3verse](https://github.com/mlr-org/mlr3verse) | [mlr3](https://github.com/mlr-org/mlr3book)
-  - [Learn mlr3](https://mlr3book.mlr-org.com/)
-  - [mlr3 Gallery](https://mlr3gallery.mlr-org.com/)
-  - [mlr3 Cheat Sheets](https://github.com/mlr-org/mlr3cheatsheets)
-- ### *Others* 
-  - [Mastering Machine Learning with R](https://github.com/PacktPublishing/Mastering-Machine-Learning-with-R-Third-Edition) by Cory Lesmeister
-  - [Machine Learning with R](https://www.mit.edu/~amidi/teaching/modeling/) by Shervine Amidi
-# lme4: Linear Mixed-Effects Models using 'Eigen' and S4
-  - [Data Science and Analytics](http://bayes.acs.unt.edu:8083/BayesContent/class/Jon/R_SC/) 
-  - [Github](https://github.com/jknowles/MultilevelModelTutorialsR)
-  - [Example1](https://it.unt.edu/sites/default/files/linearmixedmodels_jds_dec2010.pdf) | [Example2](https://rstudio-pubs-static.s3.amazonaws.com/63556_e35cc7e2dfb54a5bb551f3fa4b3ec4ae.html) | [Example3](https://stats.stackexchange.com/questions/13166/rs-lmer-cheat-sheet)
-  - [Coding Club](https://ourcodingclub.github.io/tutorials.html) | [Linear Mixed Models](https://github.com/ourcodingclub/CC-Linear-mixed-models)
+# TIDYMODELS
+- [Tidymodels](https://www.tidymodels.org) | [The Source](https://github.com/tidymodels/TMwR) | [Tidy Modeling with R](https://www.tmwr.org/)
+
 # Statistics with R
   - [An Introduction to Statistical Learnign with Applications in R and Python](https://www.statlearning.com/) by G. James | D. Witten | T. Hastie | R. Tibshirani
   - [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) by Hastie, T. | Tibshirani, R. | Friedman, J. 
@@ -86,10 +63,29 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [Xiao Kai](https://xccds1977.blogspot.com/)
 - [Learning ANOVA](https://personality-project.org/r/r.guide.html#anova)
 - [R Tutorial With Bayesian Statistics Using Stan](http://www.r-tutor.com/content/r-tutorial-ebook) by Chi Yau
-- [R Tutorial](https://www.cyclismo.org/tutorial/R/)
-- [Mastering Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Machine Learning with R](https://www.mit.edu/~amidi/teaching/modeling/) by Shervine Amidi
+  
 # Github
 [Github - Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 # Installation
 - [R for Windows](https://cran.r-project.org/)
 - [Tips](https://garthtarr.github.io/avfs/tips.html)
+
+# Others 
+- [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
+    - [The data sets and R code](https://github.com/topepo/FES)
+- ### *mlr3verse*
+  - [CRAN](https://cran.r-project.org/web/packages/mlr3verse/index.html) | [URL](https://mlr3verse.mlr-org.com/) | [mlr3verse](https://github.com/mlr-org/mlr3verse) | [mlr3](https://github.com/mlr-org/mlr3book)
+  - [Learn mlr3](https://mlr3book.mlr-org.com/)
+  - [mlr3 Gallery](https://mlr3gallery.mlr-org.com/)
+  - [mlr3 Cheat Sheets](https://github.com/mlr-org/mlr3cheatsheets)
+- ### *Books* 
+  - [Mastering Machine Learning with R](https://github.com/PacktPublishing/Mastering-Machine-Learning-with-R-Third-Edition) by Cory Lesmeister
+  - [Statistical Inference via Data Science](https://moderndive.com/) | [The data sets and R code](https://github.com/moderndive/ModernDive_book)
+  - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) | [The data sets and R code](https://github.com/EmilHvitfeldt/smltar)
+  - [Text Minning with R](https://www.tidytextmining.com/) | [The data sets and R code](https://github.com/dgrtwo/tidy-text-mining)
+- ### lme4: Linear Mixed-Effects Models using 'Eigen' and S4
+  - [Data Science and Analytics](http://bayes.acs.unt.edu:8083/BayesContent/class/Jon/R_SC/) 
+  - [Github](https://github.com/jknowles/MultilevelModelTutorialsR)
+  - [Example1](https://it.unt.edu/sites/default/files/linearmixedmodels_jds_dec2010.pdf) | [Example2](https://rstudio-pubs-static.s3.amazonaws.com/63556_e35cc7e2dfb54a5bb551f3fa4b3ec4ae.html) | [Example3](https://stats.stackexchange.com/questions/13166/rs-lmer-cheat-sheet)
+  - [Coding Club](https://ourcodingclub.github.io/tutorials.html) | [Linear Mixed Models](https://github.com/ourcodingclub/CC-Linear-mixed-models)

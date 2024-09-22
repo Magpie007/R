@@ -1,6 +1,6 @@
 # R for Data Science
   - [R for Data Science](https://r4ds.had.co.nz/index.html) | [Hadley Wickham](https://hadley.nz/index.html)
-  - [Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/)
+  - [Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) | [Tidyverse Skills](https://github.com/wangluqing?tab=repositories) 
 # Getting Started
 - [R in Action](https://www.manning.com/books/r-in-action-third-edition#toc) by Robert I. Kabacoff
 - [Learning R](https://web.itu.edu.tr/~tokerem/Learning_R.pdf) by Richard Cotton
@@ -42,7 +42,7 @@ The solutions may differ as a consequence of different algorithms, different imp
 # Time Series Forecasting
 - [Forecasting Principles and Practice](https://otexts.com/fpp3/index.html) by Rob J Hyndman | George Athanasopoulos
 # Shiny
-- [Shiny Study](https://github.com/wangluqing/Shiny_Study_Project) by Luqing Wang
+- [Mastering Shiny](https://mastering-shiny.org/) | [Hadley](https://github.com/hadley/mastering-shiny)
 - [Outstanding User Interfaces with Shiny](https://github.com/DivadNojnarg/outstanding-shiny-ui)
 # Econometrics with R
 - [Applied Econometrics with R](https://link.springer.com/book/10.1007/978-0-387-77318-6?&utm_medium=display&utm_source=criteo&utm_campaign=CONR_BOOKS_ECOM_US_PHSS_ALWYS_SL&utm_content=us_banner_29012020) by Christian Kleiber | Achim Zeileis

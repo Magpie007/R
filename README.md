@@ -78,9 +78,6 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [R Tutorial With Bayesian Statistics Using Stan](http://www.r-tutor.com/content/r-tutorial-ebook) 
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) | [The data sets and R code](https://github.com/topepo/FES) 
 - [Forecasting Principles and Practice](https://otexts.com/fpp3/index.html) 
-  
-## Github
-[Github - Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) | [README](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 
 ## Installation
 - [R for Windows](https://cran.r-project.org/)

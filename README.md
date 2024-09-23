@@ -1,13 +1,20 @@
 ## R for Data Science
-  - [R for Data Science](https://r4ds.had.co.nz/index.html) | [Hadley Wickham](https://hadley.nz/index.html)
+  - [**R for Data Science**](https://r4ds.had.co.nz/index.html) | [Hadley Wickham](https://hadley.nz/index.html)
   - [Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) | [Tidyverse Skills](https://github.com/wangluqing?tab=repositories) 
+
 ## Getting Started
-- [R in Action](https://www.manning.com/books/r-in-action-third-edition#toc) by Robert I. Kabacoff
+- [**R in Action**](https://www.manning.com/books/r-in-action-third-edition#toc) by Robert I. Kabacoff
 - [Learning R](https://web.itu.edu.tr/~tokerem/Learning_R.pdf) by Richard Cotton
 - [R Cookbook v1](https://users.dimi.uniud.it/~massimo.franceschet/ds/syllabus/bibliography/R%20Cookbook.pdf)[ & v2](https://rc2e.com/) 
+
+## TIDYMODELS
+- [**Tidyverse Skills for Data Science in R**](https://jhudatascience.org/tidyversecourse/)
+- [**Tidy Modeling with R**](https://www.tidymodels.org/books/tmwr/)
+- [Tidymodels](https://www.tidymodels.org) | [The Source](https://github.com/tidymodels/TMwR) | [Tidy Modeling with R](https://www.tmwr.org/)
+
 ## R Markdown
 - [R Markdown](https://rmarkdown.rstudio.com/) | [Capital of Statistics](https://cosx.org/2021/04/rmarkdown-introduction/) | [Cheatsheet](https://rstudio.github.io/cheatsheets/html/rmarkdown.html) | [Quick Tour](https://rmarkdown.rstudio.com/authoring_quick_tour.html)
-- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) | [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+- [**R Markdown: The Definitive Guide**](https://bookdown.org/yihui/rmarkdown/) | [**R Markdown Cookbook**](https://bookdown.org/yihui/rmarkdown-cookbook/)
 - [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
 ## Nonlinear Regression with R
 Nonlinear regression methods are suited for analysing data for which there is an empirically or theoretically established functional relationship between response and predictor.
@@ -19,11 +26,15 @@ The solutions may differ as a consequence of different algorithms, different imp
   - [Nonlinear Regression with R](https://link.springer.com/book/10.1007/978-0-387-09616-2) by Christian Ritz | Jens Carl Streibig
 1. How to choose the inital/starting parameter value
 2. How to ensure that the procedure reached the global minimum rather than a local minimum
+
 ## Modern Statistics for Modern Biology
 - [EMBL](https://www.huber.embl.de/msmb/#sec-Home) | [Stanford](https://web.stanford.edu/class/bios221/)
-## TIDYMODELS
-- [Tidymodels](https://www.tidymodels.org) | [The Source](https://github.com/tidymodels/TMwR) | [Tidy Modeling with R](https://www.tmwr.org/)
 
+## Machine Learning
+- [**R Unleash Machine Learning Techniques**](https://www.amazon.com/R-Unleash-Machine-Learning-Techniques/dp/1787127346)
+- [**Data Wrangling with R**](https://github.com/PacktPublishing/Data-Wrangling-with-R)
+- [**Practical Data Science with R**](https://www.manning.com/books/practical-data-science-with-r-second-edition)
+  
 ## Statistics with R
   - [An Introduction to Statistical Learnign with Applications in R and Python](https://www.statlearning.com/) by G. James | D. Witten | T. Hastie | R. Tibshirani
   - [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) by Hastie, T. | Tibshirani, R. | Friedman, J. 
@@ -43,7 +54,7 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [Forecasting Principles and Practice](https://otexts.com/fpp3/index.html) by Rob J Hyndman | George Athanasopoulos
 ## Shiny
 - [Mastering Shiny](https://mastering-shiny.org/) | [Hadley](https://github.com/hadley/mastering-shiny)
-- [Outstanding User Interfaces with Shiny](https://github.com/DivadNojnarg/outstanding-shiny-ui)
+- [**Outstanding User Interfaces with Shiny**](https://github.com/DivadNojnarg/outstanding-shiny-ui)
 ## Econometrics with R
 - [Applied Econometrics with R](https://link.springer.com/book/10.1007/978-0-387-77318-6?&utm_medium=display&utm_source=criteo&utm_campaign=CONR_BOOKS_ECOM_US_PHSS_ALWYS_SL&utm_content=us_banner_29012020) by Christian Kleiber | Achim Zeileis
 - [Introductory Econometrics: A Modern Approach](https://www.amazon.com/Introductory-Econometrics-Modern-Approach-MindTap-dp-1337558869/dp/1337558869/ref=dp_ob_title_bk) by Jeffrey M. Wooldridge
@@ -51,7 +62,7 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [The Art of R Programming](https://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) by Norman Matloff
 - [The Book of R](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf) by Tilman M. Davies
 - [Hands-On Programming with R](https://web.itu.edu.tr/~tokerem/Hands-On_R.pdf) by Garrett Grolemund
-- [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/) by B.S. Baumer | D.T. Kaplan | N.J. Horton
+- [**Modern Data Science with R**](https://mdsr-book.github.io/mdsr2e/) by B.S. Baumer | D.T. Kaplan | N.J. Horton
 - [Data Manipulation with R](https://www.amazon.com/Data-Manipulation-R-Use/dp/0387747303) by Phil Spector
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
 - [R Programming](https://www.stats.ox.ac.uk/~evans/Rprog/LectureNotes.pdf) by Robin Evans

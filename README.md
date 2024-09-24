@@ -20,7 +20,7 @@
   - [**Practical Data Science with R**](https://www.manning.com/books/practical-data-science-with-r-second-edition)
     
 ## R Markdown
-- [R Markdown](https://rmarkdown.rstudio.com/) | [Capital of Statistics](https://cosx.org/2021/04/rmarkdown-introduction/) | [Cheatsheet](https://rstudio.github.io/cheatsheets/html/rmarkdown.html) | [Quick Tour](https://rmarkdown.rstudio.com/authoring_quick_tour.html)
+- [R Markdown](https://rmarkdown.rstudio.com/) | [Cheatsheet](https://rstudio.github.io/cheatsheets/html/rmarkdown.html) | [Quick Tour](https://rmarkdown.rstudio.com/authoring_quick_tour.html) | [COS 1](https://cosx.org/2021/04/rmarkdown-introduction/), [2](https://d.cosx.org/d/424135-jing-jian-ban-de-r-markdownqiu-ce-shi), [3](https://d.cosx.org/d/109820-109820)
 - [**R Markdown: The Definitive Guide**](https://bookdown.org/yihui/rmarkdown/) | [**R Markdown Cookbook**](https://bookdown.org/yihui/rmarkdown-cookbook/)
 - [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
 

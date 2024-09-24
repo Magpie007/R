@@ -7,8 +7,10 @@
 - [Learning R](https://web.itu.edu.tr/~tokerem/Learning_R.pdf) by Richard Cotton
 - [R Cookbook v1](https://users.dimi.uniud.it/~massimo.franceschet/ds/syllabus/bibliography/R%20Cookbook.pdf)[ & v2](https://rc2e.com/)
 - [R Documentation](https://www.r-project.org/other-docs.html) 
-- [***Level 1 - R Programming***](https://www.stats.ox.ac.uk/~evans/Rprog/LectureNotes.pdf) | [Level 2 - An Introduction to R](
+- Simple R
+  - [***Level 1 - R Programming***](https://www.stats.ox.ac.uk/~evans/Rprog/LectureNotes.pdf) | [Level 2 - An Introduction to R](
   https://cran.r-project.org/doc/manuals/R-intro.html) | [Level 3 - Kickstarting R](https://cran.r-project.org/doc/contrib/Lemon-kickstart/)
+  - [Learn R 1](https://bookxuer.pzhao.org/), [2](https://xuer.pzhao.org/pdf/ZHAOLI2017.pdf)
 ## TIDYMODELS
 - [**Tidyverse Skills for Data Science in R**](https://jhudatascience.org/tidyversecourse/)
 - [**Tidy Modeling with R**](https://www.tidymodels.org/books/tmwr/)

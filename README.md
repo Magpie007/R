@@ -83,7 +83,7 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [Forecasting Principles and Practice](https://otexts.com/fpp3/index.html) 
 
 ## Installation
-- [R for Windows](https://cran.r-project.org/) | [RStudio](https://posit.co/download/rstudio-desktop/)
+- [R for Windows](https://cran.r-project.org/) | [RStudio](https://posit.co/download/rstudio-desktop/) | [RTools](https://cran.r-project.org/bin/windows/Rtools/)
 - [Tips](https://garthtarr.github.io/avfs/tips.html)
 
 ## Others 

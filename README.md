@@ -70,7 +70,7 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [The Art of R Programming](https://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) by Norman Matloff
 - [The Book of R](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf) by Tilman M. Davies
 - [Hands-On Programming with R](https://web.itu.edu.tr/~tokerem/Hands-On_R.pdf) by Garrett Grolemund
-- [Data Manipulation with R](https://www.amazon.com/Data-Manipulation-R-Use/dp/0387747303) by Phil Spector
+- [**Data Manipulation with R**](https://www.amazon.com/Data-Manipulation-R-Use/dp/0387747303) by Phil Spector
 - [Rbook](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html) | [URL](https://www.math.pku.edu.cn/teachers/lidf/) by Dongfeng Li
 - [R for Everyone](https://www.jaredlander.com/r-for-everyone/) by Jared Lander
 - [Free Online Books](https://bookdown.org/) 

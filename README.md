@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 ## R for Data Science
   - [**R for Data Science**](https://r4ds.had.co.nz/index.html) | [Hadley Wickham](https://hadley.nz/index.html)
   - [Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) | [Tidyverse Skills](https://github.com/wangluqing?tab=repositories) 
@@ -85,3 +86,9 @@ The solutions may differ as a consequence of different algorithms, different imp
 ## Installation
 - [R for Windows](https://cran.r-project.org/) | [RStudio](https://posit.co/download/rstudio-desktop/) | [RTools](https://cran.r-project.org/bin/windows/Rtools/)
 - [Tips](https://garthtarr.github.io/avfs/tips.html)
+
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>

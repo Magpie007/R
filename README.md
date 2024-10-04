@@ -2,7 +2,7 @@
 
 ## R for Data Science
   - [**R for Data Science**](https://r4ds.had.co.nz/index.html) | [Hadley Wickham](https://hadley.nz/index.html)
-  - [Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) | [Exercise Solution 2e](https://mine-cetinkaya-rundel.github.io/r4ds-solutions/data-visualize.html) | [Tidyverse Skills](https://github.com/wangluqing?tab=repositories) 
+  - [Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) | [Exercise Solutions 2e](https://mine-cetinkaya-rundel.github.io/r4ds-solutions/data-visualize.html) | [Tidyverse Skills](https://github.com/wangluqing?tab=repositories) 
 
 ## Getting Started
 - [**R in Action**](https://www.manning.com/books/r-in-action-third-edition#toc) by Robert I. Kabacoff

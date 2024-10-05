@@ -58,7 +58,7 @@ The solutions may differ as a consequence of different algorithms, different imp
   - [Statistical Inference via Data Science](https://moderndive.com/) | [The data sets and R code](https://github.com/moderndive/ModernDive_book)
   - [Mastering Machine Learning with R](https://github.com/PacktPublishing/Mastering-Machine-Learning-with-R-Third-Edition) by Cory Lesmeister
 ## Data Visualization with R
-- [R Graphics](https://usa1lib.org/book/600913/34aec1) by Paul Murrell
+- [R Graphics](https://students.aiu.edu/submissions/profiles/resources/onlineBook/k9S8g4_R_Graphics-2.pdf) by Paul Murrell
 - [ggplot2 Elegant Graphics for Data Analysis](https://ggplot2-book.org/) by H. Wickham | D. Navarro | T. L. Pedersen 
 - [Lattice: Multivariate Data Visualization with R](https://link.springer.com/book/10.1007/978-0-387-75969-2) by Deepayan Sarkar
 - [Interactive and Dynamic Graphics for Data Analysis with R and GGobi](https://www.datascienceassn.org/sites/default/files/Graphics%20for%20Data%20Analysis%20Interactive%20and%20Dynamic%20with%20R%20and%20GGobi.pdf) by D. Cook | D. F. Swayne

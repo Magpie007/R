@@ -10,8 +10,8 @@
 - [R Cookbook v1](https://users.dimi.uniud.it/~massimo.franceschet/ds/syllabus/bibliography/R%20Cookbook.pdf)[ & v2](https://rc2e.com/)
 - [R Documentation](https://www.r-project.org/other-docs.html) 
 - Simple R
-  - [***Level 1 - R Programming***](https://www.stats.ox.ac.uk/~evans/Rprog/LectureNotes.pdf) | [Level 2 - An Introduction to R](
-  https://cran.r-project.org/doc/manuals/R-intro.html) | [Level 3 - Kickstarting R](https://cran.r-project.org/doc/contrib/Lemon-kickstart/)
+  - [R Programming](https://www.stats.ox.ac.uk/~evans/Rprog/LectureNotes.pdf) | [An Introduction to R](
+  https://cran.r-project.org/doc/manuals/R-intro.html) | [Kickstarting R](https://cran.r-project.org/doc/contrib/Lemon-kickstart/)
   - [Learn R 1](https://bookxuer.pzhao.org/), [2](https://xuer.pzhao.org/pdf/ZHAOLI2017.pdf)
 ## TIDYMODELS
 - [**Tidyverse Skills for Data Science in R**](https://jhudatascience.org/tidyversecourse/)
@@ -45,8 +45,6 @@ The solutions may differ as a consequence of different algorithms, different imp
 
 ## Modern Statistics for Modern Biology
 - [EMBL](https://www.huber.embl.de/msmb/#sec-Home) | [Stanford](https://web.stanford.edu/class/bios221/)
-
-
   
 ## Statistics with R
   - [An Introduction to Statistical Learnign with Applications in R and Python](https://www.statlearning.com/) by G. James | D. Witten | T. Hastie | R. Tibshirani
@@ -57,6 +55,7 @@ The solutions may differ as a consequence of different algorithms, different imp
   - [Statistical Analysis of Agricultural Experiments using R](https://rstats4ag.org/) by Andrew Kniss | Jens Streibig
   - [Statistical Inference via Data Science](https://moderndive.com/) | [The data sets and R code](https://github.com/moderndive/ModernDive_book)
   - [Mastering Machine Learning with R](https://github.com/PacktPublishing/Mastering-Machine-Learning-with-R-Third-Edition) by Cory Lesmeister
+
 ## Data Visualization with R
 - [R Graphics](https://students.aiu.edu/submissions/profiles/resources/onlineBook/k9S8g4_R_Graphics-2.pdf) by Paul Murrell
 - [ggplot2 Elegant Graphics for Data Analysis](https://ggplot2-book.org/) by H. Wickham | D. Navarro | T. L. Pedersen 
@@ -68,13 +67,16 @@ The solutions may differ as a consequence of different algorithms, different imp
 ## Econometrics with R
 - [Applied Econometrics with R](https://link.springer.com/book/10.1007/978-0-387-77318-6?&utm_medium=display&utm_source=criteo&utm_campaign=CONR_BOOKS_ECOM_US_PHSS_ALWYS_SL&utm_content=us_banner_29012020) by Christian Kleiber | Achim Zeileis
 - [Introductory Econometrics: A Modern Approach](https://www.amazon.com/Introductory-Econometrics-Modern-Approach-MindTap-dp-1337558869/dp/1337558869/ref=dp_ob_title_bk) by Jeffrey M. Wooldridge
+
 ## Other Reference Books
+- [Advanced R](http://adv-r.had.co.nz/)  
 - [The Art of R Programming](https://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) by Norman Matloff
 - [The Book of R](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf) by Tilman M. Davies
 - [Hands-On Programming with R](https://web.itu.edu.tr/~tokerem/Hands-On_R.pdf) by Garrett Grolemund
 - [**Data Manipulation with R**](https://www.amazon.com/Data-Manipulation-R-Use/dp/0387747303) by Phil Spector
 - [Rbook](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html) | [URL](https://www.math.pku.edu.cn/teachers/lidf/) by Dongfeng Li
 - [R for Everyone](https://www.jaredlander.com/r-for-everyone/) by Jared Lander
+- [Time Sereis Analysis and Its Applications With R Examples](https://github.com/nickpoison/tsa5)
 - [Free Online Books](https://bookdown.org/) 
 - [Big Book of R](https://www.bigbookofr.com/)
 

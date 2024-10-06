@@ -76,7 +76,7 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [**Data Manipulation with R**](https://www.amazon.com/Data-Manipulation-R-Use/dp/0387747303) by Phil Spector
 - [Rbook](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html) | [URL](https://www.math.pku.edu.cn/teachers/lidf/) by Dongfeng Li
 - [R for Everyone](https://www.jaredlander.com/r-for-everyone/) by Jared Lander
-- [Time Sereis Analysis and Its Applications With R Examples](https://github.com/nickpoison/tsa5)
+- [Time Sereis Analysis and Its Applications With R Examples](https://github.com/nickpoison/tsa5) | [Author](https://dsstoffer.github.io/)
 - [Free Online Books](https://bookdown.org/) 
 - [Big Book of R](https://www.bigbookofr.com/)
 

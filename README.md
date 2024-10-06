@@ -69,7 +69,8 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [Introductory Econometrics: A Modern Approach](https://www.amazon.com/Introductory-Econometrics-Modern-Approach-MindTap-dp-1337558869/dp/1337558869/ref=dp_ob_title_bk) by Jeffrey M. Wooldridge
 
 ## Other Reference Books
-- [Advanced R](http://adv-r.had.co.nz/)  
+- [Advanced R](http://adv-r.had.co.nz/)
+- [Applied Predictive Modeling](https://www.ic.unicamp.br/~wainer/cursos/1s2021/432/2013_Book_AppliedPredictiveModeling.pdf)
 - [The Art of R Programming](https://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) by Norman Matloff
 - [The Book of R](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf) by Tilman M. Davies
 - [Hands-On Programming with R](https://web.itu.edu.tr/~tokerem/Hands-On_R.pdf) by Garrett Grolemund

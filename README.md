@@ -11,9 +11,9 @@
 - [R Documentation](https://www.r-project.org/other-docs.html) & [Contribution](https://cran.r-project.org/other-docs.html)
 - Simple R
   - [R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf) | [An Introduction to R](https://cran.r-project.org/manuals.html) 
-  - [R Programming](https://www.stats.ox.ac.uk/~evans/Rprog/LectureNotes.pdf) | [An Introduction to R](
+  - [Learn R 1](https://bookxuer.pzhao.org/), [2](https://xuer.pzhao.org/pdf/ZHAOLI2017.pdf) | [R Programming](https://www.stats.ox.ac.uk/~evans/Rprog/LectureNotes.pdf) | [An Introduction to R](
   https://cran.r-project.org/doc/manuals/R-intro.html) | [Kickstarting R](https://cran.r-project.org/doc/contrib/Lemon-kickstart/)
-  - [Learn R 1](https://bookxuer.pzhao.org/), [2](https://xuer.pzhao.org/pdf/ZHAOLI2017.pdf)
+ 
 ## TIDYMODELS
 - [**Tidyverse Skills for Data Science in R**](https://jhudatascience.org/tidyversecourse/)
 - [**Tidy Modeling with R**](https://www.tidymodels.org/books/tmwr/)

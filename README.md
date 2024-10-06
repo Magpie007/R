@@ -63,6 +63,7 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [Interactive and Dynamic Graphics for Data Analysis with R and GGobi](https://www.datascienceassn.org/sites/default/files/Graphics%20for%20Data%20Analysis%20Interactive%20and%20Dynamic%20with%20R%20and%20GGobi.pdf) by D. Cook | D. F. Swayne
 - [R Graphics Cookbook](https://r-graphics.org/) by Winston Chang
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
+- [Modern Statistical Graphics](https://bookdown.org/xiangyun/msg/)
 
 ## Econometrics with R
 - [Applied Econometrics with R](https://link.springer.com/book/10.1007/978-0-387-77318-6?&utm_medium=display&utm_source=criteo&utm_campaign=CONR_BOOKS_ECOM_US_PHSS_ALWYS_SL&utm_content=us_banner_29012020) by Christian Kleiber | Achim Zeileis

@@ -15,7 +15,7 @@
 5. [统计之都博客地址](https://d.cosx.org/d/421538) | [统计之都论坛](https://d.cosx.org/)
 
 ### 黄湘云
-1. [Blogs](https://xiangyun.rbind.io/post/) | [RTutorial](https://github.com/XiangyunHuang/R-Tutorial?tab=readme-ov-file)
+1. [博客](https://xiangyun.rbind.io/post/) | [R Tutorial](https://github.com/XiangyunHuang/R-Tutorial?tab=readme-ov-file)
 2. [R语言学习笔记](https://bookdown.org/xiangyun/notesdown/) | [现代统计图形](https://bookdown.org/xiangyun/msg2nd/) | [现代应用统计](https://bookdown.org/xiangyun/masr/) | [空间广义线性混合效应模型及其应用](https://bookdown.org/xiangyun/Thesis-Template-Bookdown/) | [R语言数据分析实战](https://bookdown.org/xiangyun/data-analysis-in-action/)
 
 ### 统计学习导论

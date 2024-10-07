@@ -4,4 +4,4 @@
 [Annotations](https://ggplot2-book.org/annotations#sec-titles)
 
 ### ggplot2 reference
-[geoms](https://ggplot2.tidyverse.org/reference/layer_geoms.html)
+[geoms](https://ggplot2.tidyverse.org/reference/geom_smooth.html)

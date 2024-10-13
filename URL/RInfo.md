@@ -24,3 +24,4 @@
 ### R语言学习由浅入深
 1. [读过的R语言书籍](https://zhuanlan.zhihu.com/p/682397034)
 2. [R语言学习由浅入深路线图](https://bbs.pinggu.org/thread-2263853-1-1.html)
+3. [R语言书籍一本一本收集](https://www.jianshu.com/p/b4c1c81c3c2a) [&](https://www.jianshu.com/p/9c534eafb58e)

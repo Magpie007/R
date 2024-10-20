@@ -11,6 +11,4 @@
 
 ### House Beautiful
 
-[DULUX UK](https://www.dulux.co.uk/en/dulux-colour-year-2020)
-
-[Behr](https://www.crddesignbuild.com/blog/2020-color-of-the-year-roundup)
+[DULUX UK](https://www.dulux.co.uk/en/dulux-colour-year-2020) | [Behr](https://www.crddesignbuild.com/blog/2020-color-of-the-year-roundup)

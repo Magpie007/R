@@ -5,6 +5,7 @@
   - [Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) | [Exercise Solutions 2e](https://mine-cetinkaya-rundel.github.io/r4ds-solutions/data-visualize.html) | [Tidyverse Skills](https://github.com/wangluqing?tab=repositories) 
 
 ## Getting Started
+- [**Hands-On Programming with R**](https://web.itu.edu.tr/~tokerem/Hands-On_R.pdf) by Garrett Grolemund
 - [**R in Action**](https://www.manning.com/books/r-in-action-third-edition#toc) by Robert I. Kabacoff
 - [Learning R](https://web.itu.edu.tr/~tokerem/Learning_R.pdf) by Richard Cotton
 - [R Cookbook v1](https://users.dimi.uniud.it/~massimo.franceschet/ds/syllabus/bibliography/R%20Cookbook.pdf)[ & v2](https://rc2e.com/)
@@ -74,7 +75,6 @@ The solutions may differ as a consequence of different algorithms, different imp
 - [Applied Predictive Modeling](https://www.ic.unicamp.br/~wainer/cursos/1s2021/432/2013_Book_AppliedPredictiveModeling.pdf)
 - [The Art of R Programming](https://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) by Norman Matloff
 - [The Book of R](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf) by Tilman M. Davies
-- [Hands-On Programming with R](https://web.itu.edu.tr/~tokerem/Hands-On_R.pdf) by Garrett Grolemund
 - [**Data Manipulation with R**](https://www.amazon.com/Data-Manipulation-R-Use/dp/0387747303) by Phil Spector
 - [Rbook](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html) | [URL](https://www.math.pku.edu.cn/teachers/lidf/) by Dongfeng Li
 - [R for Everyone](https://www.jaredlander.com/r-for-everyone/) by Jared Lander

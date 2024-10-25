@@ -9,7 +9,7 @@
 - [**R in Action**](https://www.manning.com/books/r-in-action-third-edition#toc) by Robert I. Kabacoff
 - [Learning R](https://web.itu.edu.tr/~tokerem/Learning_R.pdf) by Richard Cotton
 - [R Cookbook v1](https://users.dimi.uniud.it/~massimo.franceschet/ds/syllabus/bibliography/R%20Cookbook.pdf)[ & v2](https://rc2e.com/)
-- [R Documentation](https://www.r-project.org/other-docs.html) & [Contribution](https://cran.r-project.org/other-docs.html)
+- [R Documentation](https://www.r-project.org/other-docs.html) & [Contribution](https://cran.r-project.org/other-docs.html) | [RpackagesSearch](https://www.rdocumentation.org/)
 - Simple R
   - [R for Beginners (2005)](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf) | [Intro2R (2012)](https://ds.dfci.harvard.edu/~aedin/courses/R/CDC/Intro2R.pdf)
   - [An Introduction to R](https://cran.r-project.org/manuals.html) | [Learn R 1](https://bookxuer.pzhao.org/), [2](https://xuer.pzhao.org/pdf/ZHAOLI2017.pdf) | 

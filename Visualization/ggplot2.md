@@ -1,6 +1,8 @@
 
-### ggplot2: Elegant Graphics for Data Analysis (3e)
+### Josef Fruehwald
+[Tutorial](https://www.ling.upenn.edu/~joseff/avml2012/)
 
+### ggplot2: Elegant Graphics for Data Analysis (3e)
 [Annotations](https://ggplot2-book.org/annotations#sec-titles)
 
 ### ggplot2 reference

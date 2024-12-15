@@ -11,6 +11,7 @@
 - [R Cookbook v1](https://users.dimi.uniud.it/~massimo.franceschet/ds/syllabus/bibliography/R%20Cookbook.pdf)[ & v2](https://rc2e.com/)
 - [R Documentation](https://www.r-project.org/other-docs.html) & [Contribution](https://cran.r-project.org/other-docs.html) | [RpackagesSearch](https://www.rdocumentation.org/)
 - Simple R
+  - [**A Beginner’s Guide to R (Use R!)**](https://link.springer.com/book/10.1007/978-0-387-93837-0)
   - [R for Beginners (2005)](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf) | [Intro2R (2012)](https://ds.dfci.harvard.edu/~aedin/courses/R/CDC/Intro2R.pdf)
   - [An Introduction to R](https://cran.r-project.org/manuals.html) | [Learn R 1](https://bookxuer.pzhao.org/), [2](https://xuer.pzhao.org/pdf/ZHAOLI2017.pdf) | 
  
@@ -56,6 +57,7 @@ The solutions may differ as a consequence of different algorithms, different imp
   - [Statistical Analysis of Agricultural Experiments using R](https://rstats4ag.org/) by Andrew Kniss | Jens Streibig
   - [Statistical Inference via Data Science](https://moderndive.com/) | [The data sets and R code](https://github.com/moderndive/ModernDive_book)
   - [Mastering Machine Learning with R](https://github.com/PacktPublishing/Mastering-Machine-Learning-with-R-Third-Edition) by Cory Lesmeister
+  - [**Data Analysis and Graphics Using R: An Example- Based Approach**](https://moodle2.units.it/pluginfile.php/414740/mod_resource/content/1/Data-Analysis-and-Graphics-Using-R-An-Example-Based-Approach-Cambridge-Series-in-Statistical-and-Probabilistic-Mathematics-.pdf)
 
 ## Data Visualization with R
 - [R Graphics](https://students.aiu.edu/submissions/profiles/resources/onlineBook/k9S8g4_R_Graphics-2.pdf) by Paul Murrell

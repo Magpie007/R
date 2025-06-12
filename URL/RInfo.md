@@ -6,6 +6,7 @@
 [Understanding P-values Through Simulation](https://www2.stat.duke.edu/~berger/applet2/applet.pdf) | [Jim Berger's Talks](https://www2.stat.duke.edu/~berger/index.html)
 4. [How to share data with a statistician](https://github.com/jtleek/datasharing)
 5. [Bookdown_Authors](https://bookdown.org/home/authors/)
+6. [R-Tutorial](https://github.com/XiangyunHuang/R-Tutorial)
 
 ### 论坛
 1. [从中心极限定理的模拟到正态分布](https://cosx.org/2010/05/from-clt-simulation-to-normal-distribution/)

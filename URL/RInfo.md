@@ -7,6 +7,7 @@
 4. [How to share data with a statistician](https://github.com/jtleek/datasharing)
 5. [Bookdown_Authors](https://bookdown.org/home/authors/)
 6. [R-Tutorial](https://github.com/XiangyunHuang/R-Tutorial)
+7. [学习R语言这几本电子书就够了](https://zhuanlan.zhihu.com/p/464176743) | [王敏杰](https://bookdown.org/wangminjie/R4DS/)
 
 ### 论坛
 1. [从中心极限定理的模拟到正态分布](https://cosx.org/2010/05/from-clt-simulation-to-normal-distribution/)
